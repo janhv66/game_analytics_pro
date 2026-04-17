@@ -2,7 +2,7 @@
 
 A full-stack data engineering and machine learning pipeline designed to track player behavior, analyze monetization health, and predict user churn for a live-service game.
 
-![Dashboard Screenshot](<img width="1862" height="797" alt="image" src="https://github.com/user-attachments/assets/0e69982a-8ad5-4e43-a5a8-34067c91e6d9" />
+![Dashboard Screenshot](<img width="1862" height="797" alt="image" src="https://github.com/user-attachments/assets/523066a3-d55b-49df-b0f2-02b7f156b576" />
 )
 
 ## 🚀 Overview
