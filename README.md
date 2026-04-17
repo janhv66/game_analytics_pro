@@ -2,7 +2,8 @@
 
 A full-stack data engineering and machine learning pipeline designed to track player behavior, analyze monetization health, and predict user churn for a live-service game.
 
-![Dashboard Screenshot](link_to_your_screenshot.png)
+![Dashboard Screenshot](<img width="1862" height="797" alt="image" src="https://github.com/user-attachments/assets/0e69982a-8ad5-4e43-a5a8-34067c91e6d9" />
+)
 
 ## 🚀 Overview
 This project simulates a professional gaming analytics environment. It transforms raw player event data into actionable business intelligence through a SQL-backed dashboard and a Random Forest predictive model.
