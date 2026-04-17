@@ -1,0 +1,5 @@
+game_analytics.db
+churn_model.pkl
+__pycache__/
+venv/
+.env
